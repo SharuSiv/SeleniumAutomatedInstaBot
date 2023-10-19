@@ -15,7 +15,7 @@ $ cd SeleniumAutomatedInstaBot
 
 open the project in an IDE of your choice (I used PyCharm for this project)
 
-Before starting the program you would need to place messages you would like to send users in line 34:
+Before starting the program you would need to place messages you would like to send users in line 39:
 
 
 ![image](https://github.com/SharuSiv/SeleniumAutomatedInstaBot/assets/122399531/a21bb4e6-004a-4996-8e07-884069f32220)
